@@ -1,5 +1,9 @@
-# 🧑‍💻 DSA (Data Structures & Algorithms)
-:us:: So basically, here I'm gonna upload some implementations of Data Structures (mostly in C due to my college curriculum) and code from programming challenges using DSA (mostly from LeetCode, with Python used in most solutions). Of course, since some implementations were assigned as homework in certain college subjects, they were developed in collaboration with colleagues.
+# 🌲Binary Search Tree (Árvore Binária de Busca)
+Made in collaboration with <a href="https://www.github.com/PatrickGlaubers">PatrickGlaubers</a>
 
-🇧🇷: Basicamente, aqui vou fazer o envio de algumas implementações de Estruturas de Dados (principalmente em C devido ao currículo da minha faculdade) e códigos de desafios de programação usando DSA (principalmente do LeetCode, com Python sendo usado na maioria das soluções). Claro, como algumas implementações foram aplicadas como trabalhos em algumas disciplinas da faculdade, elas foram desenvolvidas em colaboração com colegas.
+In this project, a CRUD using C Language was created with the aim of storing some data about fictional students and fictional subjects. Although C might not be the best option to create this project, some knowledge acquired during the development of this project could be mentioned, such as:
 
+- pointers;
+- BST structure;
+- BST operations and Time Complexity of these operations;
+- Collaboration between team members (despite the fact that we didn't use a VCS).
