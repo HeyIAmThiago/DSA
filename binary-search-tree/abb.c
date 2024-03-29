@@ -222,7 +222,7 @@ No *alterar(int matricula, No *aux){
     switch(escolha){
         case 1:
             printf("\nDigite um novo nome: ");
-            scanf("%s", &nome);
+            scanf("%s", nome);
 
             addNome = malloc(sizeof(char) * strlen(nome));
 
@@ -343,7 +343,7 @@ int main() {
                 break;
             case 1:
                 printf("\nDigite o nome: \n");
-                scanf("%s", &nome);
+                scanf("%s", nome);
 
                 addNome = malloc(sizeof(char) * strlen(nome));
 
@@ -363,7 +363,7 @@ int main() {
 
                 for (int i = 0; i < quant_disciplinas; i++) {
                     printf("Digite o nome da disciplina de num. %d: ", i+1);
-                    scanf("%s", &nome_disciplina);
+                    scanf("%s", nome_disciplina);
 
                     ptr_nome_disciplina = malloc(sizeof(char) * strlen(nome_disciplina));
                     int num = strlen(nome_disciplina);
