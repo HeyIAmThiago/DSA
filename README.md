@@ -1,7 +1,5 @@
-# 🇺🇸 DSA (Data Structures & Algorithms)
-🧑‍💻 So basically, here I'm gonna upload some Data Structures implementations (mostly in C because of the college curriculum) and some code from programming challenges using DSA (mostly from LeetCode and using Python in most solutions).
+# 🧑‍💻 DSA (Data Structures & Algorithms)
+:us:: So basically, here I'm gonna upload some implementations of Data Structures (mostly in C due to my college curriculum) and code from programming challenges using DSA (mostly from LeetCode, with Python used in most solutions). Of course, since some implementations were assigned as homework in certain college subjects, they were developed in collaboration with colleagues.
 
-# pt Algoritmos e Estruturas de Dados
-
-🧑‍💻 Basicamente, aqui eu vou fazer o envio de algumas implementações Estruturas de Dados (a maioria utilizando a Linguagem C por causa do currículo da minha universidade) e a resolução em código de alguns desafios de programação utilizando Algoritmos e Estruturas de Dados (a maioria da plataforma LeetCode e utilizando Python na maioria das soluções).
+🇧🇷: Basicamente, aqui vou fazer o envio de algumas implementações de Estruturas de Dados (principalmente em C devido ao currículo da minha faculdade) e códigos de desafios de programação usando DSA (principalmente do LeetCode, com Python sendo usado na maioria das soluções). Claro, como algumas implementações foram aplicadas como trabalhos em algumas disciplinas da faculdade, elas foram desenvolvidas em colaboração com colegas.
 
