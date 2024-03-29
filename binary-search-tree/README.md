@@ -7,3 +7,5 @@ In this project, a CRUD using C Language was created with the aim of storing som
 - BST structure;
 - BST operations and Time Complexity of these operations;
 - Collaboration between team members (despite the fact that we didn't use a VCS).
+
+You can Run the Code <a href="https://onlinegdb.com/aZaf06Gc3">in here</a> (just please keep in mind that using complicated data like Big Int numbs could break the code - so please don't use spaces in strings and don't use Big Int in numerical values).
